@@ -1,0 +1,29 @@
+Product:
+採購專業人員基礎證照模擬考
+
+Version:
+V1.0.0
+
+Release Date:
+2026-10-09
+
+Question Bank:
+115/09/21
+
+Questions:
+3599
+
+Subjects:
+14
+
+MC:
+913
+
+TF:
+2686
+
+WEB-ANSWER-INTEGRITY:
+PASS
+
+R3 release SHA-256:
+bea02d7e205673b29b71a0eeb4cc9c43002400e98b4b6b7cf8e466b416f2298d
